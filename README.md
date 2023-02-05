@@ -4,6 +4,6 @@ Template Three from EL-Zero Web School
 
 >My Tools in this project
 
-_html
-_css
-_javascript
+_ html
+_ css
+_ javascript
